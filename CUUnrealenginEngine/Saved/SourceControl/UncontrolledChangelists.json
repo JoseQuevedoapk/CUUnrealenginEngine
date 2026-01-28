@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Lista de cambios no controlados predeterminada",
+			"files": [
+				"C:/Users/josec/Documents/GitHub/CUUnrealenginEngine/CUUnrealenginEngine/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/V1/DLNCFC4C5RQ8EDPCDYCKHQ.uasset",
+				"C:/Users/josec/Documents/GitHub/CUUnrealenginEngine/CUUnrealenginEngine/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/3/FH/099822FPMOX2MIRU64WO7E.uasset"
+			]
+		}
+	]
+}
