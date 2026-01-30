@@ -1,25 +1,6 @@
-[9732:13152:0127/174331.347:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[9732:18108:0127/174331.511:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[9732:13152:0127/174331.547:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[9732:11248:0127/174345.612:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[9732:13152:0127/174408.196:ERROR:device_event_log_impl.cc(196)] [17:44:08.186] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No se dispone de más datos. (0x103)
-[9732:13152:0127/174408.524:ERROR:device_event_log_impl.cc(196)] [17:44:08.216] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
-[9732:18108:0127/174615.975:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[19512:4376:0127/174615.979:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[9732:13152:0127/174616.918:ERROR:device_event_log_impl.cc(196)] [17:46:16.909] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
-[9732:18108:0127/174620.979:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[19512:4376:0127/174620.994:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[9732:18108:0127/174644.804:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[19512:17844:0127/174644.816:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[9732:18108:0127/174649.806:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[19512:4376:0127/174649.826:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[9732:18108:0127/174659.808:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[19512:4376:0127/174659.830:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[9732:18108:0127/174719.811:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[19512:10272:0127/174719.837:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[9732:18108:0127/174836.252:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[9732:18108:0127/174836.275:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[9732:18108:0127/174836.284:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[19512:4376:0127/174836.303:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[9732:11248:0127/180703.358:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[9732:13152:0127/182607.241:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[18816:15388:0129/180818.750:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[18816:12276:0129/180818.930:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[18816:15388:0129/180818.972:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[2876:13196:0129/180826.410:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-7B1608309B4B91C98C3CA07B9EC11866 will be ignored
+[18816:18364:0129/180828.937:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[18816:15388:0129/183828.192:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
