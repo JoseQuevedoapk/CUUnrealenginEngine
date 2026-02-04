@@ -10,7 +10,11 @@
 				"C:/Users/josec/Documents/GitHub/CUUnrealenginEngine/CUUnrealenginEngine/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/josec/Documents/GitHub/CUUnrealenginEngine/CUUnrealenginEngine/Content/Inputs/ia_move.uasset",
 				"C:/Users/josec/Documents/GitHub/CUUnrealenginEngine/CUUnrealenginEngine/Content/Inputs/NewInputMappingContext.uasset",
-				"C:/Users/josec/Documents/GitHub/CUUnrealenginEngine/CUUnrealenginEngine/Content/Inputs/jugador2.uasset"
+				"C:/Users/josec/Documents/GitHub/CUUnrealenginEngine/CUUnrealenginEngine/Content/Inputs/jugador2.uasset",
+				"C:/Users/josec/Documents/GitHub/CUUnrealenginEngine/CUUnrealenginEngine/Content/FirstPerson/Blueprints/Ai_rounc.uasset",
+				"C:/Users/josec/Documents/GitHub/CUUnrealenginEngine/CUUnrealenginEngine/Content/FirstPerson/Blueprints/Ai_Crounch.uasset",
+				"C:/Users/josec/Documents/GitHub/CUUnrealenginEngine/CUUnrealenginEngine/Content/FirstPerson/Blueprints/Ai_Crouch.uasset",
+				"C:/Users/josec/Documents/GitHub/CUUnrealenginEngine/CUUnrealenginEngine/Content/Input/IMC_Default.uasset"
 			]
 		}
 	]
