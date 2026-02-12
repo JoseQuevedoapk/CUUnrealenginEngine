@@ -1,0 +1,14 @@
+[19924:2680:0210/171721.005:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[19924:9612:0210/171721.042:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[19924:2680:0210/171721.055:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[8900:17360:0210/171727.158:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-0BFB01B745956F300A64D2F2AFF7E10D will be ignored
+[19924:8964:0210/171732.981:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[19924:2680:0210/171733.810:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[19924:2680:0210/171733.810:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[19924:2680:0210/171733.810:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[19924:2680:0210/171733.810:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[19924:8964:0210/171733.815:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[15140:16432:0210/171949.440:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[19924:2680:0210/172432.344:ERROR:device_event_log_impl.cc(196)] [17:24:32.331] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
+[3744:7408:0210/172518.457:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[19924:2680:0210/172754.619:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
