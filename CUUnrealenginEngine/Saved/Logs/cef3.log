@@ -1,12 +1,36 @@
-[14016:17748:0211/233810.830:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[14016:17748:0211/233810.958:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[14016:21380:0211/233810.963:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[10404:15192:0211/233815.465:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-0DD28B237B30D327134702D29CAE5A12 will be ignored
-[14016:18136:0211/233817.770:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[15828:4560:0211/233818.051:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[15828:4560:0211/233818.105:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[15828:4560:0211/233827.320:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[15828:4560:0211/233839.057:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[14016:18136:0211/234503.908:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[14016:18136:0212/003032.981:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[14016:17748:0212/003123.788:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[17616:26440:0215/140236.506:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[17616:12796:0215/140236.544:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[17616:26440:0215/140236.555:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[21984:9344:0215/140240.092:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-5339162C3B35CA3E1F8BE711FFFBC024 will be ignored
+[17616:9164:0215/140240.662:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[17616:26440:0215/140240.781:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[17616:26440:0215/140240.781:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[17616:26440:0215/140240.782:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[17616:26440:0215/140240.782:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[17616:9164:0215/140240.785:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[26648:11192:0215/140243.631:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[17616:9164:0215/140243.637:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[26648:11192:0215/140243.682:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[26648:11192:0215/140255.553:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[26648:11192:0215/140308.820:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[17616:26440:0215/140344.341:ERROR:device_event_log_impl.cc(196)] [14:03:44.324] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No se dispone de más datos. (0x103)
+[17616:26440:0215/140344.341:ERROR:device_event_log_impl.cc(196)] [14:03:44.342] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
+[17616:26440:0215/140344.371:ERROR:device_event_log_impl.cc(196)] [14:03:44.365] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
+[17616:26440:0215/140344.389:ERROR:device_event_log_impl.cc(196)] [14:03:44.382] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No se dispone de más datos. (0x103)
+[17616:26440:0215/140344.421:ERROR:device_event_log_impl.cc(196)] [14:03:44.415] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
+[26704:19980:0215/140448.421:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[17616:26440:0215/140731.424:ERROR:device_event_log_impl.cc(196)] [14:07:31.412] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No se dispone de más datos. (0x103)
+[17616:26440:0215/140731.424:ERROR:device_event_log_impl.cc(196)] [14:07:31.414] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
+[17616:26440:0215/140731.439:ERROR:device_event_log_impl.cc(196)] [14:07:31.429] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No se dispone de más datos. (0x103)
+[17616:26440:0215/140731.456:ERROR:device_event_log_impl.cc(196)] [14:07:31.446] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No se dispone de más datos. (0x103)
+[17616:26440:0215/140731.473:ERROR:device_event_log_impl.cc(196)] [14:07:31.462] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
+[17616:26440:0215/140738.182:ERROR:device_event_log_impl.cc(196)] [14:07:38.167] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No se dispone de más datos. (0x103)
+[17616:26440:0215/140738.199:ERROR:device_event_log_impl.cc(196)] [14:07:38.182] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
+[17616:26440:0215/140738.232:ERROR:device_event_log_impl.cc(196)] [14:07:38.222] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No se dispone de más datos. (0x103)
+[17616:26440:0215/140738.265:ERROR:device_event_log_impl.cc(196)] [14:07:38.256] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
+[17616:26440:0215/140757.280:ERROR:device_event_log_impl.cc(196)] [14:07:57.263] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No se dispone de más datos. (0x103)
+[17616:26440:0215/140757.296:ERROR:device_event_log_impl.cc(196)] [14:07:57.280] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
+[17616:26440:0215/140757.313:ERROR:device_event_log_impl.cc(196)] [14:07:57.304] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No se dispone de más datos. (0x103)
+[17616:26440:0215/140757.331:ERROR:device_event_log_impl.cc(196)] [14:07:57.320] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No se dispone de más datos. (0x103)
+[17616:26440:0215/140757.331:ERROR:device_event_log_impl.cc(196)] [14:07:57.320] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
+[17616:26440:0215/161122.309:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

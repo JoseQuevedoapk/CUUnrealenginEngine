@@ -1,0 +1,14 @@
+[2248:8632:0212/211303.692:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[2248:18040:0212/211303.731:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[2248:8632:0212/211303.741:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[21964:11996:0212/211306.989:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-F20154AB82CC3FCB09784C26DC229B52 will be ignored
+[2248:6476:0212/211310.736:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[8344:9168:0212/211310.760:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[8344:9168:0212/211310.853:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[8344:9168:0212/211320.055:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[8344:9168:0212/211332.631:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[2248:8632:0212/211411.976:ERROR:device_event_log_impl.cc(196)] [21:14:11.961] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No se dispone de más datos. (0x103)
+[2248:8632:0212/211411.991:ERROR:device_event_log_impl.cc(196)] [21:14:11.976] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
+[2248:8632:0212/211412.023:ERROR:device_event_log_impl.cc(196)] [21:14:12.016] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No se dispone de más datos. (0x103)
+[2248:8632:0212/211412.056:ERROR:device_event_log_impl.cc(196)] [21:14:12.049] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
+[2248:8632:0212/212030.926:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
