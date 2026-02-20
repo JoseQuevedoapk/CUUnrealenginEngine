@@ -1,11 +1,5 @@
-[19220:25968:0218/232914.164:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[19220:16900:0218/232914.205:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[19220:25968:0218/232914.217:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[20676:6032:0218/232917.320:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-20A81E83AB2B651FA8C46DB75139DBED will be ignored
-[19220:10876:0218/232921.065:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[18376:9112:0218/232921.204:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[18376:9112:0218/232921.272:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[19220:10876:0218/232921.498:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[18376:9112:0218/232929.290:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
-[18376:9112:0218/232940.750:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
-[19220:25968:0218/233013.742:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[14112:16360:0219/181351.383:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[14112:4256:0219/181351.544:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[14112:16360:0219/181351.615:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[7712:14664:0219/181357.241:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-1BF75A71CC363FC178636A25CEE77391 will be ignored
+[14112:16360:0219/181403.407:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
