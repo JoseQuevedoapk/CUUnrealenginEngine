@@ -1,5 +1,8 @@
-2026/02/21-13:25:19.933 14fc Reusing MANIFEST C:\Users\josec\Documents\GitHub\CUUnrealenginEngine\CUUnrealenginEngine\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/02/21-13:25:19.940 14fc Recovering log #16
-2026/02/21-13:25:19.944 14fc Reusing old log C:\Users\josec\Documents\GitHub\CUUnrealenginEngine\CUUnrealenginEngine\Saved\webcache_6613\Default\Local Storage\leveldb/000016.log 
-2026/02/21-13:45:35.644 2a5c Level-0 table #20: started
-2026/02/21-13:45:35.659 2a5c Level-0 table #20: 63376 bytes OK
+2026/02/21-13:47:25.700 30d8 Reusing MANIFEST C:\Users\josec\Documents\GitHub\CUUnrealenginEngine\CUUnrealenginEngine\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/02/21-13:47:25.709 30d8 Recovering log #16
+2026/02/21-13:47:25.709 30d8 Level-0 table #19: started
+2026/02/21-13:47:25.715 30d8 Level-0 table #19: 63376 bytes OK
+2026/02/21-13:47:25.715 30d8 Recovering log #19
+2026/02/21-13:47:25.718 30d8 Reusing old log C:\Users\josec\Documents\GitHub\CUUnrealenginEngine\CUUnrealenginEngine\Saved\webcache_6613\Default\Local Storage\leveldb/000019.log 
+2026/02/21-13:47:25.720 30d8 Delete type=0 #16
+2026/02/21-13:47:25.720 30d8 Delete type=2 #20
