@@ -1,5 +1,15 @@
-[14112:16360:0219/181351.383:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[14112:4256:0219/181351.544:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[14112:16360:0219/181351.615:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[7712:14664:0219/181357.241:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-1BF75A71CC363FC178636A25CEE77391 will be ignored
-[14112:16360:0219/181403.407:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[44576:30908:0221/132519.808:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[44576:34672:0221/132519.848:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[44576:30908:0221/132519.861:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[24552:16488:0221/132523.408:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-9FCFFCEC6016525FF3F96F2FB0D8E841 will be ignored
+[21812:23628:0221/132526.097:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[21812:23628:0221/132526.151:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[44576:38588:0221/132526.213:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[21812:23628:0221/132535.301:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[21812:23628:0221/132545.177:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[44576:38588:0221/132926.878:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[44576:30908:0221/133158.169:ERROR:device_event_log_impl.cc(196)] [13:31:58.139] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No se dispone de más datos. (0x103)
+[44576:30908:0221/133158.169:ERROR:device_event_log_impl.cc(196)] [13:31:58.169] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
+[44576:30908:0221/133158.211:ERROR:device_event_log_impl.cc(196)] [13:31:58.204] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No se dispone de más datos. (0x103)
+[44576:30908:0221/133158.244:ERROR:device_event_log_impl.cc(196)] [13:31:58.237] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
+[44576:30908:0221/134535.715:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
