@@ -1,8 +1,22 @@
-2026/02/22-19:57:09.466 8c30 Reusing MANIFEST C:\Users\josec\Documents\GitHub\CUUnrealenginEngine\CUUnrealenginEngine\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/02/22-19:57:09.473 8c30 Recovering log #39
-2026/02/22-19:57:09.475 8c30 Reusing old log C:\Users\josec\Documents\GitHub\CUUnrealenginEngine\CUUnrealenginEngine\Saved\webcache_6613\Default\Local Storage\leveldb/000039.log 
-2026/02/22-19:58:14.636 8c84 Level-0 table #44: started
-2026/02/22-19:58:14.643 8c84 Level-0 table #44: 68602 bytes OK
-2026/02/22-19:58:14.646 8c84 Delete type=0 #39
-2026/02/22-20:04:29.277 8c84 Level-0 table #46: started
-2026/02/22-20:04:29.292 8c84 Level-0 table #46: 89972 bytes OK
+2026/02/22-20:06:08.349 5be0 Reusing MANIFEST C:\Users\josec\Documents\GitHub\CUUnrealenginEngine\CUUnrealenginEngine\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/02/22-20:06:08.356 5be0 Recovering log #43
+2026/02/22-20:06:08.356 5be0 Level-0 table #46: started
+2026/02/22-20:06:08.362 5be0 Level-0 table #46: 89972 bytes OK
+2026/02/22-20:06:08.362 5be0 Recovering log #45
+2026/02/22-20:06:08.365 5be0 Reusing old log C:\Users\josec\Documents\GitHub\CUUnrealenginEngine\CUUnrealenginEngine\Saved\webcache_6613\Default\Local Storage\leveldb/000045.log 
+2026/02/22-20:06:08.367 5be0 Delete type=0 #43
+2026/02/22-20:09:28.553 4b98 Level-0 table #48: started
+2026/02/22-20:09:28.558 4b98 Level-0 table #48: 80957 bytes OK
+2026/02/22-20:09:28.560 4b98 Delete type=0 #45
+2026/02/22-20:12:20.446 4b98 Level-0 table #50: started
+2026/02/22-20:12:20.452 4b98 Level-0 table #50: 91484 bytes OK
+2026/02/22-20:12:20.454 4b98 Delete type=0 #47
+2026/02/22-20:12:20.455 4b98 Compacting 4@0 + 1@1 files
+2026/02/22-20:12:20.460 4b98 Generated table #51@0: 29 keys, 46900 bytes
+2026/02/22-20:12:20.460 4b98 Compacted 4@0 + 1@1 files => 46900 bytes
+2026/02/22-20:12:20.461 4b98 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/22-20:12:20.462 4b98 Delete type=2 #41
+2026/02/22-20:12:20.462 4b98 Delete type=2 #44
+2026/02/22-20:12:20.462 4b98 Delete type=2 #46
+2026/02/22-20:12:20.462 4b98 Delete type=2 #48
+2026/02/22-20:12:20.462 4b98 Delete type=2 #50
