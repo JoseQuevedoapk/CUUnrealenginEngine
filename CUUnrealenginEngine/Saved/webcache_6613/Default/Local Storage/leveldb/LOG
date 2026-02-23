@@ -1,18 +1,6 @@
-2026/02/22-17:54:00.674 adf0 Reusing MANIFEST C:\Users\josec\Documents\GitHub\CUUnrealenginEngine\CUUnrealenginEngine\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/02/22-17:54:00.681 adf0 Recovering log #25
-2026/02/22-17:54:00.695 adf0 Reusing old log C:\Users\josec\Documents\GitHub\CUUnrealenginEngine\CUUnrealenginEngine\Saved\webcache_6613\Default\Local Storage\leveldb/000025.log 
-2026/02/22-17:55:31.871 3c04 Level-0 table #28: started
-2026/02/22-17:55:31.874 3c04 Level-0 table #28: 74075 bytes OK
-2026/02/22-17:55:31.875 3c04 Delete type=0 #25
-2026/02/22-17:55:31.876 3c04 Compacting 4@0 + 1@1 files
-2026/02/22-17:55:31.879 3c04 Generated table #29@0: 28 keys, 37958 bytes
-2026/02/22-17:55:31.879 3c04 Compacted 4@0 + 1@1 files => 37958 bytes
-2026/02/22-17:55:31.880 3c04 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/02/22-17:55:31.881 3c04 Delete type=2 #17
-2026/02/22-17:55:31.882 3c04 Delete type=2 #19
-2026/02/22-17:55:31.882 3c04 Delete type=2 #22
-2026/02/22-17:55:31.882 3c04 Delete type=2 #24
-2026/02/22-17:55:31.882 3c04 Delete type=2 #28
-2026/02/22-17:58:29.855 3c04 Level-0 table #31: started
-2026/02/22-17:58:29.872 3c04 Level-0 table #31: 76425 bytes OK
-2026/02/22-17:58:29.874 3c04 Delete type=0 #27
+2026/02/22-18:00:43.403 9f30 Reusing MANIFEST C:\Users\josec\Documents\GitHub\CUUnrealenginEngine\CUUnrealenginEngine\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/02/22-18:00:43.409 9f30 Recovering log #30
+2026/02/22-18:00:43.412 9f30 Reusing old log C:\Users\josec\Documents\GitHub\CUUnrealenginEngine\CUUnrealenginEngine\Saved\webcache_6613\Default\Local Storage\leveldb/000030.log 
+2026/02/22-18:12:00.950 6efc Level-0 table #34: started
+2026/02/22-18:12:00.955 6efc Level-0 table #34: 74566 bytes OK
+2026/02/22-18:12:00.958 6efc Delete type=0 #30

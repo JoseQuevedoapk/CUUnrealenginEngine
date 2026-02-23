@@ -1,86 +1,12 @@
-[43196:12064:0222/175400.338:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[43196:37352:0222/175400.454:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[43196:12064:0222/175400.462:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[25184:5432:0222/175405.644:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-85E8350F8BAEC1652B1B377537BAE261 will be ignored
-[43196:44000:0222/175407.501:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[3352:14504:0222/175407.523:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
-[43196:44000:0222/175407.589:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[3352:14504:0222/175407.640:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
-[3352:14504:0222/175415.904:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[3352:14504:0222/175430.194:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[25104:45464:0222/175431.858:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 7-A0C1057B6889CE23A130F6E895E9CEE3 will be ignored
-[4164:40284:0222/175812.042:VERBOSE1:video_capture_oracle.cc(91)] Capture size auto-throttling is now enabled.
-[4164:40284:0222/175812.042:VERBOSE1:video_capture_oracle.cc(120)] Capture size auto-throttling is now disabled.
-[4164:40284:0222/175812.042:VERBOSE1:capture_resolution_chooser.cc(205)] Recomputed snapped frame sizes: 2x2
-[4164:40284:0222/175812.042:VERBOSE1:capture_resolution_chooser.cc(157)] Recomputed capture size from 640x360 to 2x2 (100% of ideal size)
-[4164:40284:0222/175812.123:VERBOSE1:capture_resolution_chooser.cc(205)] Recomputed snapped frame sizes: 2x2
-[4164:40284:0222/175812.191:VERBOSE1:capture_resolution_chooser.cc(205)] Recomputed snapped frame sizes: 1000x567
-[4164:40284:0222/175812.191:VERBOSE1:capture_resolution_chooser.cc(157)] Recomputed capture size from 2x2 to 1000x567 (100% of ideal size)
-[4164:40284:0222/175812.191:VERBOSE1:capture_resolution_chooser.cc(205)] Recomputed snapped frame sizes: 1000x567
-[40092:37996:0222/175813.041:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame B-8EBECCA61A45EA205E592F74307FA8E7 will be ignored
-[4164:40284:0222/175813.041:VERBOSE1:video_capture_oracle.cc(91)] Capture size auto-throttling is now enabled.
-[4164:40284:0222/175813.042:VERBOSE1:video_capture_oracle.cc(120)] Capture size auto-throttling is now disabled.
-[4164:40284:0222/175813.042:VERBOSE1:capture_resolution_chooser.cc(205)] Recomputed snapped frame sizes: 1000x567
-[4164:40284:0222/175813.042:VERBOSE1:capture_resolution_chooser.cc(157)] Recomputed capture size from 640x360 to 1000x567 (100% of ideal size)
-[4164:40284:0222/175813.571:VERBOSE1:capture_resolution_chooser.cc(205)] Recomputed snapped frame sizes: 1000x567
-[4164:43508:0222/175821.185:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
-C:\fakepath(103,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4_int)
-
-[4164:7512:0222/175821.294:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
-C:\fakepath(136,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
-C:\fakepath(138,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
-C:\fakepath(174,1): warning X4000: use of potentially uninitialized variable (f_u_int_int_int)
-
-[4164:19872:0222/175821.733:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
-C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
-
-[4164:40284:0222/175822.292:VERBOSE1:video_capture_oracle.cc(165)] Content sampler now detects animation.
-[4164:40284:0222/175822.842:VERBOSE1:video_capture_oracle.cc(173)] Content sampler detects animation ended.
-[4164:40284:0222/175824.009:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #320).
-[4164:40284:0222/175824.038:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #320).
-[4164:40284:0222/175824.043:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #320).
-[4164:40284:0222/175824.059:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #320).
-[4164:40284:0222/175824.075:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #320).
-[4164:40284:0222/175824.410:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #335).
-[4164:40284:0222/175824.497:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #338).
-[4164:40284:0222/175824.508:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #338).
-[4164:40284:0222/175824.529:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #338).
-[4164:40284:0222/175824.562:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #338).
-[4164:40284:0222/175824.576:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #338).
-[4164:40284:0222/175824.596:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #338).
-[4164:40284:0222/175824.624:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #338).
-[4164:40284:0222/175824.627:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #338).
-[4164:40284:0222/175824.643:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #338).
-[4164:40284:0222/175824.658:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #338).
-[4164:40284:0222/175824.687:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #338).
-[4164:40284:0222/175824.692:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #338).
-[4164:40284:0222/175824.719:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #338).
-[4164:40284:0222/175824.748:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #338).
-[4164:40284:0222/175824.759:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #338).
-[4164:40284:0222/175824.780:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #338).
-[4164:40284:0222/175824.811:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #338).
-[4164:40284:0222/175824.825:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #338).
-[4164:40284:0222/175824.845:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #338).
-[4164:40284:0222/175824.874:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #338).
-[4164:40284:0222/175824.877:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #338).
-[4164:40284:0222/175824.892:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #338).
-[4164:40284:0222/175825.417:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #357).
-[4164:40284:0222/175825.492:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #360).
-[4164:40284:0222/175825.516:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #360).
-[4164:40284:0222/175825.526:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #360).
-[4164:40284:0222/175825.550:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #360).
-[4164:40284:0222/175825.578:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #360).
-[4164:40284:0222/175825.594:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #360).
-[4164:40284:0222/175825.614:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #360).
-[4164:40284:0222/175825.649:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #360).
-[4164:40284:0222/175825.659:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #360).
-[4164:40284:0222/175825.685:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #360).
-[4164:40284:0222/175825.714:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #360).
-[4164:40284:0222/175825.726:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #360).
-[4164:40284:0222/175826.616:VERBOSE1:video_capture_oracle.cc(165)] Content sampler now detects animation.
-[4164:40284:0222/175827.526:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #443).
-[4164:40284:0222/175827.594:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #446).
-[4164:40284:0222/175827.662:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #449).
-[4164:40284:0222/175827.677:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #449).
-[4164:40284:0222/175827.743:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #452).
-[43196:12064:0222/175934.473:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[30364:29812:0222/180043.292:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[30364:11612:0222/180043.326:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[30364:29812:0222/180043.336:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[28504:43940:0222/180046.311:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-AA0DBF07DF77D07B4AC5D2F2B25F8119 will be ignored
+[44448:42072:0222/180050.061:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[30364:40768:0222/180050.071:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[44448:42072:0222/180050.198:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[30364:40768:0222/180050.225:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[44448:42072:0222/180058.367:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[44448:42072:0222/180108.981:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[9660:35916:0222/181146.485:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 7-1FD60711C479A7940BCB955B568B46A4 will be ignored
+[30364:29812:0222/182653.518:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
