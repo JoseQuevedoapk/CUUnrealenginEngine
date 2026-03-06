@@ -1,11 +1,5 @@
-[32464:34180:0224/175815.978:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[32464:23876:0224/175816.096:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[32464:34180:0224/175816.103:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[27212:25452:0224/175824.191:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-A87D1C1C5E3637C29A251BC7CB5B02B2 will be ignored
-[32464:35820:0224/175827.214:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[35260:17128:0224/175827.403:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[35260:17128:0224/175827.430:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
-[32464:35820:0224/175827.735:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[35260:17128:0224/175835.730:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[35260:17128:0224/175848.351:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[32464:34180:0224/180627.771:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[18320:20988:0305/170714.180:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[18320:20988:0305/170714.304:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[18320:10868:0305/170714.306:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[21780:15468:0305/170723.161:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-2940E76D052D969C3CA6A9E5219E2444 will be ignored
+[18320:20988:0305/183952.073:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
