@@ -1,0 +1,12 @@
+# Archivos temporales y de caché de Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+
+# Ignorar las carpetas de los assets pesados de Fab que descargarás
+/Content/Fab/ParagonPhase/
+/Content/Fab/ROGCreatures/
+/Content/ParagonPhase/
+/Content/ROGCreatures/
