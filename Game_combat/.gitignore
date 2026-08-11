@@ -12,3 +12,6 @@ Build/
 /Content/ROGCreatures/
 /Content/ROG_Creatures/
 /Content/Fab/
+
+# Ignorar la librería de pasto para evitar saturar GitHub
+PN_GrassLibrary/
